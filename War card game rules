@@ -6,7 +6,7 @@ Each player places his stack of cards face down, in front of them.
 THE PLAY 
 Player one puts down the top card from their half deck facing up, player 2 does the same
 If one of the numbers is higher, the person who played that card wins and takes both of the cards. 
-If the cards are the same rank, it is War. Each player turns up three card face down and one card face up. 
+If the cards are the same rank, it is War. Each player turn up three card face down and one card face up. // specify which card is face up like saying once you get to the third card you put that one face up
 The player with the higher cards takes both piles (six cards).
 If the turned-up cards are again the same rank, loop until one persons wins
 
